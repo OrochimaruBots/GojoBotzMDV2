@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/6933370cdf7734976315f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">GojoBotzMDV1</h1>
+<h1 align="center">GojoBotzMDV2</h1>
 
 ## Saya Cuman Menambahkan Beberapa fitur Dan Merubah Beberapa Fitur Lainnya
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
